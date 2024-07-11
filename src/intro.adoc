@@ -179,14 +179,14 @@ The first thing chairs need to understand is that RISC-V has chairs and vice-cha
 
 To prepare for your leadership position, please ensure to complete these steps:
 
-1. Obtain access to all tools in the <<orgtoolsaccounts>> section.
-2. Follow the additional guidance in the <<get-involved>> section.
-3. Ensure you have the appropriate Video Conferencing application setup on your workspace and that you have the host information for your group. For new groups, see the <<request-help>> section to obtain new credentials.  For existing groups, your predecessor or other chair may have this information and can share it.
-4. Before your first meeting, familiarize yourself with the information on https://wiki.riscv.org/display/HOME/RISC-V+Technical+Meetings[RISC-V Technical Meetings] wiki page for a primer on meeting leadership.
-5. Locate your group resources: RISC-V Group in the Portal (Groups.IO), Group meeting time (tech.meeting calendar), GitHub Group repo (in riscv-admin), and your Google Drive Workgroup folder. If you are an “acting” chair, these will be requested during the group creation (see “https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.rqcgvkqacfrs[Steps to Complete the Pending Milestone]” section of the RISC-V Lifecycle Guide). If you are a confirmed chair, your predecessor or other chair can help you locate these.
-6. If you are a confirmed chair (not “acting”), complete these few additional items:
-    1. Ensure that you have a meeting invite to the appropriate meeting(s) listed in the <<org-meetings>> section. You should at least have an invite to the Technical Chairs meeting.
-    2. Work with the RISC-V Staff to ensure that you can vote using the tool described in the <<voting>> section.  This typically involves the RISC-V Staff sending you a request to vote in a test election. They will initiate this action when ready.
+. Obtain access to all tools in the <<orgtoolsaccounts>> section.
+. Follow the additional guidance in the <<get-involved>> section.
+. Ensure you have the appropriate Video Conferencing application setup on your workspace and that you have the host information for your group. For new groups, see the <<request-help>> section to obtain new credentials.  For existing groups, your predecessor or other chair may have this information and can share it.
+. Before your first meeting, familiarize yourself with the information on https://wiki.riscv.org/display/HOME/RISC-V+Technical+Meetings[RISC-V Technical Meetings] wiki page for a primer on meeting leadership.
+. Locate your group resources: RISC-V Group in the Portal (Groups.IO), Group meeting time (tech.meeting calendar), GitHub Group repo (in riscv-admin), and your Google Drive Workgroup folder. If you are an “acting” chair, these will be requested during the group creation (see “https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.rqcgvkqacfrs[Steps to Complete the Pending Milestone]” section of the RISC-V Lifecycle Guide). If you are a confirmed chair, your predecessor or other chair can help you locate these.
+. If you are a confirmed chair (not “acting”), complete these few additional items:
+.. Ensure that you have a meeting invite to the appropriate meeting(s) listed in the <<org-meetings>> section. You should at least have an invite to the Technical Chairs meeting.
+.. Work with the RISC-V Staff to ensure that you can vote using the tool described in the <<voting>> section.  This typically involves the RISC-V Staff sending you a request to vote in a test election. They will initiate this action when ready.
 
 [[video]]
 === Video Conferencing
@@ -235,11 +235,11 @@ The RISC-V software initiatives are anchored in the Software Horizontal Committe
 * Software ecosystem components and status: https://wiki.riscv.org/display/HOME/RISC-V+Software+Ecosystem[Software Ecosystem] wiki page
 * External mailing list: https://groups.google.com/u/1/a/groups.riscv.org/g/sw-dev[sw-dev]
 * RISC-V member patch review lists (new): 
-    * https://groups.google.com/a/riscv.org/g/dev-gnu-patches[dev-gnu-patches]
-    * https://groups.google.com/a/riscv.org/g/dev-kernel-patches[dev-kernel-patches]
-    * https://groups.google.com/a/riscv.org/g/dev-libs-patches[dev-libs-patches]
-    * https://groups.google.com/a/riscv.org/g/dev-llvm-patches[dev-llvm-patches]
-    * https://groups.google.com/a/riscv.org/g/dev-simulator-patches[dev-simulator-patches]
+** https://groups.google.com/a/riscv.org/g/dev-gnu-patches[dev-gnu-patches]
+** https://groups.google.com/a/riscv.org/g/dev-kernel-patches[dev-kernel-patches]
+** https://groups.google.com/a/riscv.org/g/dev-libs-patches[dev-libs-patches]
+** https://groups.google.com/a/riscv.org/g/dev-llvm-patches[dev-llvm-patches]
+** https://groups.google.com/a/riscv.org/g/dev-simulator-patches[dev-simulator-patches]
 
 Almost every ISA extension impacts some piece of the software ecosystem.  Details about the https://docs.google.com/presentation/d/1nQ5uFb39KA6gvUi5SReWfIQSiRN7hp6z7ZPfctE4mKk/edit#slide=id.g104ba5e7139_0_569[RISC-V Software Development Lifecycle] (and https://docs.google.com/presentation/d/1nQ5uFb39KA6gvUi5SReWfIQSiRN7hp6z7ZPfctE4mKk/edit#slide=id.g104d04b92b1_1_1[Milestones]) exist in the https://docs.google.com/presentation/d/1nQ5uFb39KA6gvUi5SReWfIQSiRN7hp6z7ZPfctE4mKk/edit?usp=sharing[Specification Lifecycle and Milestone Definitions] slides.
 
@@ -275,11 +275,11 @@ To propose a new specification or topic, see https://docs.google.com/document/d/
 
 To find an answer to a question, try one of these methods.
 
-1. Review a list of common questions in the https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.gmhptxzcxepg[Frequently Asked Questions (FAQs)] section of the RISC-V Lifecycle Guide.
-2. For questions about the ISA or compilers and software, post to the external mailing lists: https://groups.google.com/u/1/a/groups.riscv.org/g/isa-dev[isa-dev] and https://groups.google.com/u/1/a/groups.riscv.org/g/sw-dev[sw-dev].
-3. Check out the working groups (see <<orgtoolsaccounts>>) to see if the topic is already discussed. Join and ask!
-4. Join the https://join.slack.com/t/risc-v-international/signup[RISC-V Slack workspace] and post to either the #random or #tech-general channels.
-5. If all else fails, see the <<request-help>> section for guidance on how to get more assistance.
+. Review a list of common questions in the https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.gmhptxzcxepg[Frequently Asked Questions (FAQs)] section of the RISC-V Lifecycle Guide.
+. For questions about the ISA or compilers and software, post to the external mailing lists: https://groups.google.com/u/1/a/groups.riscv.org/g/isa-dev[isa-dev] and https://groups.google.com/u/1/a/groups.riscv.org/g/sw-dev[sw-dev].
+. Check out the working groups (see <<orgtoolsaccounts>>) to see if the topic is already discussed. Join and ask!
+. Join the https://join.slack.com/t/risc-v-international/signup[RISC-V Slack workspace] and post to either the #random or #tech-general channels.
+. If all else fails, see the <<request-help>> section for guidance on how to get more assistance.
 
 [[nomenclature]]
 == Nomenclature
