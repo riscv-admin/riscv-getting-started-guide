@@ -61,16 +61,15 @@ For more information on which groups to join, please see the “Getting involved
 [[wiki]]
 ==== RISC-V Wiki
 
-RISC-V Wiki
 The https://wiki.riscv.org/[RISC-V Wiki] is also referred to as the “Technical Wiki”. 
 
-This area can be accessed from the RISC-V Website (riscv.org) from the “Technical” menu item labeled “Technical Wiki”.  This link will bring you to the main RISC-V wiki page.
+This area can be accessed from the https://riscv.org/[RISC-V Website] (riscv.org) from the “Technical” menu item labeled “Technical Wiki”.  This link will bring you to the main RISC-V wiki page.
 
 A community favorite is the Technical Overview wiki page (formerly “Important Links” or just the “URL Table”).  Bookmark this page and when searching for something, start at this page.  If you ever want to or need to contribute to the RISC-V wiki, use the <<request-help>> section and submit a “General Request” asking for wiki access.
 
-A RISC-V “Org Chart” can be found at the “Technical Organization” item.  This interactive slide deck can be used to explore the various RISC-V groups, find Chair and Vice-chairs, and locate the community mailing list for each group. Click on boxes or use the arrows in the lower right to navigate the groups.
+A https://docs.google.com/presentation/d/1wrQ7UQ_HPnB6mfenMz4gmR3DKqtKxr0oQ0HGsbiKdvE/present?slide=id.temp_overview_0[RISC-V Org Chart] can be found on the RISC-V Wiki.  This interactive slide deck can be used to explore the various RISC-V groups, find Chair and Vice-chairs, and locate the community mailing list for each group. Click on boxes or use the arrows in the lower right to navigate the groups.
 
-While the RISC-V wiki access is generally public, If you want edit capability to the RISC-V wiki, perform the following steps:
+While the RISC-V wiki access is generally public, ff you want edit capability to the RISC-V wiki, perform the following steps:
 
 . If you do not have an LFX (Linux Foundation) ID, see <<lftool>> and request one.
 . <<portal,Add your LFX ID email address>> to your RISC-V Portal account.
