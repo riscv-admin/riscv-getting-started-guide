@@ -101,7 +101,8 @@ While GitHub is preferred as a storage and organization tool, some activities su
  
 When you #portal[request your RISC-V Portal access], the email address you register is automatically added to a Google group within 3 working days. The Google group provides additional access to the RISC-V documents in Google Drive. If your email is not Google, you can enable it by following the directions found in the https://support.google.com/accounts/answer/27441?hl=en#existingemail[Use an existing email address] section of the “Create a Google Account” article from Google.
 
-To test that your membership has been set up correctly, the https://docs.google.com/document/d/1FHvKzoYb2g_PvHsIBbtHlDLhouGOtvxAptmYAt4vojw/edit[Member Authorization Test Document] was created to collect comments from RISC-V members. Directions for how to use the document and what to do if you cannot post comments are contained in the document. Similar documents also exist for the following groups
+To test that your membership has been set up correctly, the https://docs.google.com/document/d/1FHvKzoYb2g_PvHsIBbtHlDLhouGOtvxAptmYAt4vojw/edit[Member Authorization Test Document] was created to collect comments from RISC-V members. Directions for how to use the document and what to do if you cannot post comments are contained in the document. Similar documents also exist for the following groups.
+
 * https://docs.google.com/document/d/1krL4YB5-WE3nU3N6lQ8b8TKe5lgqsFFD5A0U5UmRdV8/[Tech Chairs Authorization Test Document]
 * https://docs.google.com/document/d/1YnFXlrCRdmdz6gaRbnban8e3W7ANYRrR9tTpTsrxCfw/[Committee Chairs Authorization Test Document]
 * https://docs.google.com/document/d/1_6K4OZu6sg5g8tykU1DWFx8q8aKNhYEj-gCk8rz3ZHk/[TSC Authorization Test Document]
@@ -109,6 +110,7 @@ To test that your membership has been set up correctly, the https://docs.google.
 If, for some reason your email address cannot be enabled or if you have any problems enabling it, please submit a “General Request” in the <<request-help>> section and ask for assistance with Google Drive access.
 
 Key folders of interest:
+
 * https://drive.google.com/drive/u/0/folders/1DemKMAD3D0Ka1MeESRoVCJipSrwiUlEs[for riscv members]: The top-level folder into which all RISC-V members content is placed.
 * https://drive.google.com/drive/u/0/folders/179Vz1NtbpmFcVy8SnuSUFWAO-by2Davc[Workgroups]: Contains folders which serve as the Google drive work space for working groups.
 * https://drive.google.com/drive/u/0/folders/17huuOKXafR5n4tbxZfzSnAakmgHnipoY[Policies]: Holds all RISC-V policies organized into folder for their adoption state, e.g. approved, being written, and pre-review.
@@ -152,9 +154,9 @@ The step-by-step directions of how to define groups and perform specification de
 [[leadership]]
 === Leadership
 
-RISC-V CTO: 		Andrea Gallo, RISC-V
-TSC Chair:		  Greg Favor, Ventana Micro Systems
-TSC Vice-Chair:	Philipp Tomsich, VRULL GmbH
+* RISC-V CTO: 		Andrea Gallo, RISC-V
+* TSC Chair:		  Greg Favor, Ventana Micro Systems
+* TSC Vice-Chair:	Philipp Tomsich, VRULL GmbH
 
 Full TSC membership is found in the https://docs.google.com/presentation/d/1eEVuu6lRZd9iiDnZQSZME7Q7svtTG3pGIKHPmZ79B8E/edit#slide=id.g1423212a9f5_2_128[TSC Voting Members] slide of the https://docs.google.com/presentation/d/1eEVuu6lRZd9iiDnZQSZME7Q7svtTG3pGIKHPmZ79B8E/[RISC-V Technical Organization] deck.
 
@@ -190,7 +192,7 @@ To prepare for your leadership position, please ensure to complete these steps:
 [[video]]
 === Video Conferencing
 
-RISC-V uses Zoom for group meetings. Links are provided in the calendar entries. The details for using hosting meetings with Zoom are on the “https://wiki.riscv.org/display/TECH/Calendars%2C+Meetings%2C+and+Zoom#Calendars,Meetings,andZoom-UsingZoom[Using Zoom]“ section of the "https://wiki.riscv.org/display/TECH/Calendars%2C+Meetings%2C+and+Zoom[Calendars, Meetings, and Zoom]" wiki page.
+RISC-V uses Zoom for group meetings. Links are provided in the calendar entries. The details for using hosting meetings with Zoom are on the https://wiki.riscv.org/display/TECH/Calendars%2C+Meetings%2C+and+Zoom#Calendars,Meetings,andZoom-UsingZoom[Using Zoom] section of the https://wiki.riscv.org/display/TECH/Calendars%2C+Meetings%2C+and+Zoom[Calendars, Meetings, and Zoom] wiki page.
 
 [[voting]]
 === Voting
@@ -202,11 +204,11 @@ When groups need to hold a formal vote, the https://www.opavote.com/[OpaVote] to
 
 Sometimes called, “The TPMs”, the RISC-V Staff has a couple of Technical Program Managers who facilitate RISC-V operations.  
 
-To request assistance from them, create issues in the https://help.riscv.org[help.riscv.org] GitHub repository.  Forms are provided for common requests.
+To request assistance from them, create issues in the https://help.riscv.org[https://help.riscv.org] GitHub repository.  Forms are provided for common requests.
 
 Unique requests can be submitted via a “General Request” issue.
 
-If you need access to the (private) Help repository or prefer email, you may send an email to help@riscv.org[help@riscv.org].
+If you need access to the (private) Help repository or prefer email, you may send an email to help@riscv.org.
 
 [[specs]]
 == Specifications
