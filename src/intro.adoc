@@ -45,12 +45,12 @@ If your company is a RISC-V member, you can request a portal ID by sending an em
 
 After you receive your ID, update it with your GitHub ID and your LFX ID. Follow these steps:
 
-1. Click to https://lists.riscv.org/g/main/editprofile[edit your profile]. 
-2. Log in, if needed.
-3. Scroll to the bottom of the page.
-4. Enter your Linux Foundation (LFX) email address (not username) in the *LFX Email* field. Note: there isn't any data validation on these fields.  So, please ensure you provide your Linux Foundation (LFX) email address (not username) in this field. See https://drive.google.com/file/d/1MtyJNDixXW8z_hrbeeMFaInLL1TViJ3-/view?usp=share_link[this video] for a quick overview.
-5. Add the appropriate information in the *Github ID* field. Note: there isn't any data validation on these fields.  So, please use the Github (short) ID in this field. See https://drive.google.com/file/d/1MtyJNDixXW8z_hrbeeMFaInLL1TViJ3-/view?usp=share_link[this video] for a quick overview.
-6. Submit by clicking the blue "Update Group Profile" button.
+. Click to https://lists.riscv.org/g/main/editprofile[edit your profile]. 
+. Log in, if needed.
+. Scroll to the bottom of the page.
+. Enter your Linux Foundation (LFX) email address (not username) in the *LFX Email* field. Note: there isn't any data validation on these fields.  So, please ensure you provide your Linux Foundation (LFX) email address (not username) in this field. See https://drive.google.com/file/d/1MtyJNDixXW8z_hrbeeMFaInLL1TViJ3-/view?usp=share_link[this video] for a quick overview.
+. Add the appropriate information in the *Github ID* field. Note: there isn't any data validation on these fields.  So, please use the Github (short) ID in this field. See https://drive.google.com/file/d/1MtyJNDixXW8z_hrbeeMFaInLL1TViJ3-/view?usp=share_link[this video] for a quick overview.
+. Submit by clicking the blue "Update Group Profile" button.
 
 RISC-V primarily uses Groups.IO as a list server for its various groups. Join groups, review mail archives, and participate in conversations.
 
@@ -72,10 +72,9 @@ A RISC-V “Org Chart” can be found at the “Technical Organization” item. 
 
 While the RISC-V wiki access is generally public, If you want edit capability to the RISC-V wiki, perform the following steps:
 
-
-1. If you do not have an LFX (Linux Foundation) ID, see <<lftool>> and request one.
-2. <<portal,Add your LFX ID email address>> to your RISC-V Portal account.
-3. Request RISC-V wiki edit access by following the directions in <<request-help>>. Submit a “General Request”, asking for wiki access.
+. If you do not have an LFX (Linux Foundation) ID, see <<lftool>> and request one.
+. <<portal,Add your LFX ID email address>> to your RISC-V Portal account.
+. Request RISC-V wiki edit access by following the directions in <<request-help>>. Submit a “General Request”, asking for wiki access.
 
 [[tech-calendar]]
 ==== Technical Calendar
@@ -251,19 +250,19 @@ To engage in the development of an active specification, visit the https://wiki.
 
 If you are a member of the RISC-V Technical community, you should join the following groups:
 
-* “https://lists.riscv.org/g/allmem[All Members]” (allmem) group to receive community-wide notifications.
-* “https://lists.riscv.org/g/tech-announce[Tech Announce]” (tech-announce) group to stay in touch with all things technical, including leadership “Call for Candidate” notices, specification reviews, and groups formation announcements.
+* https://lists.riscv.org/g/allmem["All Members"] (allmem) group to receive community-wide notifications.
+* https://lists.riscv.org/g/tech-announce["Tech Announce"] (tech-announce) group to stay in touch with all things technical, including leadership “Call for Candidate” notices, specification reviews, and groups formation announcements.
 
 Additional groups of interest are the ISA and Horizontal Committees (ICs and HCs).  These groups are:
 
-* "https://lists.riscv.org/g/tech-unprivileged[Unprivileged ISA Committee]” (tech-unprivileged) group for discussions about user-mode extensions.
-* "https://lists.riscv.org/g/tech-privileged[Privileged ISA Committee]" (tech-privileged) group for discussions about all privilege mode extensions.
-* “https://lists.riscv.org/g/apps-tools-software[Applications & Tools Horizontal Committee]” (apps-tools-software) group for discussions about tools, toolchains, compilers, and applications.
-* “https://lists.riscv.org/g/privileged-software[Privileged Software Horizontal Committee]” (privileged-software) group for discussions about platform enablement software such as firmware, kernels, hypervisors, etc.
-* “https://lists.riscv.org/g/security[Security Horizontal Committee]” (security) group for discussions on all security topics
-* “https://lists.riscv.org/g/isa-infra[ISA Infrastructure Horizontal Committee]” (isa-infra) group for discussions around non-extension discussions for the ISA such as Architectural Compatibility Testing (ACT), SAIL model development, documentation guidance, and Continuous Integration testing of the development tools.
-* “https://lists.riscv.org/g/soc-infra[SOC Infrastructure Horizontal Committee]” (soc-infra) group for discussions about the components which straddle the hardware/software boundary such as RAS, Debug, Trace, and IOMMU.
-* “https://lists.riscv.org/g/tech-sectors[Technology Horizontal Committee]” (tech-sectors) group for market segment discussions like Datacenter, HPC, and Embedded
+* https://lists.riscv.org/g/tech-unprivileged["Unprivileged ISA Committee"] (tech-unprivileged) group for discussions about user-mode extensions.
+* https://lists.riscv.org/g/tech-privileged["Privileged ISA Committee"] (tech-privileged) group for discussions about all privilege mode extensions.
+* https://lists.riscv.org/g/apps-tools-software["Applications & Tools Horizontal Committee"] (apps-tools-software) group for discussions about tools, toolchains, compilers, and applications.
+* https://lists.riscv.org/g/privileged-software["Privileged Software Horizontal Committee"] (privileged-software) group for discussions about platform enablement software such as firmware, kernels, hypervisors, etc.
+* https://lists.riscv.org/g/security["Security Horizontal Committee"] (security) group for discussions on all security topics
+* https://lists.riscv.org/g/isa-infra["ISA Infrastructure Horizontal Committee"] (isa-infra) group for discussions around non-extension discussions for the ISA such as Architectural Compatibility Testing (ACT), SAIL model development, documentation guidance, and Continuous Integration testing of the development tools.
+* https://lists.riscv.org/g/soc-infra["SOC Infrastructure Horizontal Committee"] (soc-infra) group for discussions about the components which straddle the hardware/software boundary such as RAS, Debug, Trace, and IOMMU.
+* https://lists.riscv.org/g/tech-sectors["Technology Horizontal Committee"] (tech-sectors) group for market segment discussions like Datacenter, HPC, and Embedded
 
 To find a list of all existing groups, see the RISC-V Portal page for https://lists.riscv.org/g/main/subgroups[Sub-groups].
 
