@@ -1,0 +1,61 @@
+[[operations]]
+== Operations
+
+[[leadership]]
+=== Leadership
+
+* RISC-V CTO: 		Andrea Gallo, RISC-V
+* TSC Chair:		  Greg Favor, Ventana Micro Systems
+* TSC Vice-Chair:	Philipp Tomsich, VRULL GmbH
+
+Full TSC membership is found in the https://docs.google.com/presentation/d/1eEVuu6lRZd9iiDnZQSZME7Q7svtTG3pGIKHPmZ79B8E/edit#slide=id.g1423212a9f5_2_128[TSC Voting Members] slide of the https://docs.google.com/presentation/d/1eEVuu6lRZd9iiDnZQSZME7Q7svtTG3pGIKHPmZ79B8E/[RISC-V Technical Organization] deck.
+
+[[org-meetings]]
+=== Organizational Meetings
+
+The following meetings and general cadence are core to RISC-V technical organization:
+
+* Technical Steering Committee (sometimes called “CCM” for “Committee Chairs Meeting”): generally meets 1 time per month on the first Wednesday morning of the month, U.S. time. This meeting includes all representatives from TSC-level member organizations, community elected TSC representatives (2 from the Strategic and 1 from the Community/Individual members), as well as the Chairs and Vice-chairs of HCs and ICs. However, not all CCM attendees are voting members.
+* Technical Committee Chairs Coordination meeting for Committee Chairs and Vice-chairs: meets the third Wednesday morning of the month, U.S. time. The attendees include chairs of the HCs and ICs. This meeting focuses on execution only, no policy.
+* Technical Chairs (and Vice-chairs) meeting (“Tech Chairs”): generally meets on the second and fourth Wednesday mornings of the month, U.S. time, and is composed of all Chairs and Vice-chairs of HCs, ICs, SIGs, and TGs.
+
+These meetings are generally invite-only based upon membership level and group leadership.  If you need an invite, please reach out for assistance per the directions in the <<request-help>> section. 
+
+[[getstart-chair]]
+=== Getting Started as a Chair or Vice-chair of a RISC-V Group
+
+If you have assumed a leadership role for one of the RISC-V groups, let us begin by thanking you.  The RISC-V community is a “contributor culture” that only accomplishes work when members contribute.
+
+The first thing chairs need to understand is that RISC-V has chairs and vice-chairs only.  There is no concept of co-chairs.  Secondly, group leaders should be aware of whether their “acting” or fully confirmed (approved).  Acting chairs are used at the beginning of a group’s existence and are working to get the group and the chairs functional and officially established (approved).  More information on this process can be found in the https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.7s1dxlfz7n35[Group Lifecycle] section of the RISC-V Lifecycle Guide.
+
+To prepare for your leadership position, please ensure to complete these steps:
+
+. Obtain access to all tools in the <<orgtoolsaccounts>> section.
+. Follow the additional guidance in the <<get-involved>> section.
+. Ensure you have the appropriate Video Conferencing application setup on your workspace and that you have the host information for your group. For new groups, see the <<request-help>> section to obtain new credentials.  For existing groups, your predecessor or other chair may have this information and can share it.
+. Before your first meeting, familiarize yourself with the information on https://wiki.riscv.org/display/HOME/RISC-V+Technical+Meetings[RISC-V Technical Meetings] wiki page for a primer on meeting leadership.
+. Locate your group resources: RISC-V Group in the Portal (Groups.IO), Group meeting time (tech.meeting calendar), GitHub Group repo (in riscv-admin), and your Google Drive Workgroup folder. If you are an “acting” chair, these will be requested during the group creation (see “https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.rqcgvkqacfrs[Steps to Complete the Pending Milestone]” section of the RISC-V Lifecycle Guide). If you are a confirmed chair, your predecessor or other chair can help you locate these.
+. If you are a confirmed chair (not “acting”), complete these few additional items:
+.. Ensure that you have a meeting invite to the appropriate meeting(s) listed in the <<org-meetings>> section. You should at least have an invite to the Technical Chairs meeting.
+.. Work with the RISC-V Staff to ensure that you can vote using the tool described in the <<voting>> section.  This typically involves the RISC-V Staff sending you a request to vote in a test election. They will initiate this action when ready.
+
+[[video]]
+=== Video Conferencing
+
+RISC-V uses Zoom for group meetings. Links are provided in the calendar entries. The details for using hosting meetings with Zoom are on the https://wiki.riscv.org/display/TECH/Calendars%2C+Meetings%2C+and+Zoom#Calendars,Meetings,andZoom-UsingZoom[Using Zoom] section of the https://wiki.riscv.org/display/TECH/Calendars%2C+Meetings%2C+and+Zoom[Calendars, Meetings, and Zoom] wiki page.
+
+[[voting]]
+=== Voting
+
+When groups need to hold a formal vote, the https://www.opavote.com/[OpaVote] tool is used. Voters receive an email with a link to their voting credentials. Status of votes can be found on the https://wiki.riscv.org/display/TECH/RISC-V+Vote+Status[Vote Status] wiki page.
+
+[[request-help]]
+=== Requesting Help from the RISC-V Staff
+
+Sometimes called, “The TPMs”, the RISC-V Staff has a couple of Technical Program Managers who facilitate RISC-V operations.  
+
+To request assistance from them, create issues in the https://help.riscv.org[https://help.riscv.org] GitHub repository.  Forms are provided for common requests.
+
+Unique requests can be submitted via a “General Request” issue.
+
+If you need access to the (private) Help repository or prefer email, you may send an email to help@riscv.org.

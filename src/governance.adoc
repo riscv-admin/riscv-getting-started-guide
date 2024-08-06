@@ -1,0 +1,25 @@
+[[princgove]]
+== Principles and governing structure
+
+[[principles]]
+=== Principles
+Our Code of Conduct is published and maintained on the RISC-V website at https://riscv.org/community/community-code-of-conduct/[RISC-V Code of Conduct].  
+
+Read more about its importance and other core ideas in the https://docs.google.com/document/d/1GTyhLDAGVxug2MKCj4gnLJGAbgw8aUa2-hhCAPFDRbU/[RISC-V Guiding Principles] document.
+
+[[governance]]
+=== Governing Group Structure and Responsibilities
+
+The RISC-V organization is detailed in the https://docs.google.com/presentation/d/1eEVuu6lRZd9iiDnZQSZME7Q7svtTG3pGIKHPmZ79B8E/[RISC-V Technical Organization deck].
+
+Most processes and procedures have been documented with policies documents.  All policies can be found on the https://wiki.riscv.org/display/TECH/RISC-V+Technical+Policies[RISC-V Technical Policies] wiki page.  
+
+Commonly used policies include:
+
+* https://docs.google.com/document/d/1_0Mnd5sXn8KcyOUI4-qvCdG7ITPY6vSAIhFc5Iy-URI/[Groups and Elections]
+* https://docs.google.com/document/d/1m1zleRPI10QlczprzIWxbRa0mJyIf2AZVJl1U95776Q/[Chairs Best Practices]
+* https://docs.google.com/document/d/1fhpladx9OkN8H27k7Kt0CtjgptbdDvLVRefppHwm4yI/[Ratification]
+* https://docs.google.com/document/d/1uJFEpTTei_Mr78MWZ9bPRDgWj85Gh14PuX4u8p7q66o/[Acceptance Criteria]
+* https://docs.google.com/document/d/1ZHA_Ds-bthEPg698g66-BvRUoy0b0uTTQnrQto17-GY/[ISA and Non-ISA]
+
+The step-by-step directions of how to define groups and perform specification development are detailed in the https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/[RISC-V Lifecycle Guide].

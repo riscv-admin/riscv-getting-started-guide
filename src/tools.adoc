@@ -1,0 +1,113 @@
+[[orgtoolsaccounts]]
+=== Organizational Tools & Accounts
+
+RISC-V information can be organized into these key tools:
+
+* <<lftool>>
+* <<portal>>
+* <<wiki>>
+* <<tech-calendar>>
+* <<github>>
+* <<google-drive>>
+* <<additional-places>>
+
+[[lftool]]
+==== Linux Foundation tools (LFX)
+
+An ever-increasing number of tools used by RISC-V are hosted out of the Linux Foundation.  Thus, members who will be actively engaged in development or leading groups at RISC-V are encouraged to request an LFX ID. 
+
+To request one, visit the https://lfx.linuxfoundation.org/[LFX Tools] and click “Create LFX Profile”. On the Individual Dashboard, follow the “Create an account” link, complete the information, and click the blue “Create Account” button.
+
+If you already have an LF ID, log in and https://openprofile.dev/[review your information]. In particular, visit the following pages and update information as needed.
+
+* https://openprofile.dev/profile[Profile] to create your profile.
+* https://openprofile.dev/edit/profile[Basic information] to set up your personal information.
+* https://openprofile.dev/edit/connected-accounts[Connected Accounts] to specify other accounts you might have, such as GitHub and LinkedIN
+* https://openprofile.dev/edit/email-management[Email Management] to handle multiple email addresses. You can set which is primary and which should receive meeting invitations.
+
+[[portal]]
+==== Portal
+
+The RISC-V Portal (“mailing lists” or “communities”) in https://lists.riscv.org[Groups.IO].  While these lists are publicly viewable, only RISC-V members can contribute.
+
+When you join RISC-V as an individual member or as part of your company account, you receive access to the https://lists.riscv.org/groups[Members-only mailing lists].
+
+If your company is a RISC-V member, you can request a portal ID by sending an email to info@riscv.org from your company email, asking for an ID.
+
+After you receive your ID, update it with your GitHub ID and your LFX ID. Follow these steps:
+
+. Click to https://lists.riscv.org/g/main/editprofile[edit your profile]. 
+. Log in, if needed.
+. Scroll to the bottom of the page.
+. Enter your Linux Foundation (LFX) email address (not username) in the *LFX Email* field. Note: there isn't any data validation on these fields.  So, please ensure you provide your Linux Foundation (LFX) email address (not username) in this field. See https://drive.google.com/file/d/1MtyJNDixXW8z_hrbeeMFaInLL1TViJ3-/view?usp=share_link[this video] for a quick overview.
+. Add the appropriate information in the *Github ID* field. Note: there isn't any data validation on these fields.  So, please use the Github (short) ID in this field. See https://drive.google.com/file/d/1MtyJNDixXW8z_hrbeeMFaInLL1TViJ3-/view?usp=share_link[this video] for a quick overview.
+. Submit by clicking the blue "Update Group Profile" button.
+
+RISC-V primarily uses Groups.IO as a list server for its various groups. Join groups, review mail archives, and participate in conversations.
+
+To locate groups, visit the RISC-V main page and follow the directions. All RISC-V groups are also directly available at the https://lists.riscv.org/g/main/subgroups[Subgroups] page.  To join any group, find the home page for the group and click the *+Join This Group* button at the bottom of the page.  To leave a group, go to the group main page, select “Subscription” in the left pane, scroll to the bottom of the page, and click the *Leave Group* button in the lower right corner.
+
+For more information on which groups to join, please see the “Getting involved” section later in this document.
+
+[[wiki]]
+==== RISC-V Wiki
+
+The https://wiki.riscv.org/[RISC-V Wiki] is also referred to as the “Technical Wiki”. 
+
+This area can be accessed from the https://riscv.org/[RISC-V Website] (riscv.org) from the “Technical” menu item labeled “Technical Wiki”.  This link will bring you to the main RISC-V wiki page.
+
+A community favorite is the Technical Overview wiki page (formerly “Important Links” or just the “URL Table”).  Bookmark this page and when searching for something, start at this page.  If you ever want to or need to contribute to the RISC-V wiki, use the <<request-help>> section and submit a “General Request” asking for wiki access.
+
+A https://docs.google.com/presentation/d/1wrQ7UQ_HPnB6mfenMz4gmR3DKqtKxr0oQ0HGsbiKdvE/present?slide=id.temp_overview_0[RISC-V Org Chart] can be found on the RISC-V Wiki.  This interactive slide deck can be used to explore the various RISC-V groups, find Chair and Vice-chairs, and locate the community mailing list for each group. Click on boxes or use the arrows in the lower right to navigate the groups.
+
+While the RISC-V wiki access is generally public, ff you want edit capability to the RISC-V wiki, perform the following steps:
+
+. If you do not have an LFX (Linux Foundation) ID, see <<lftool>> and request one.
+. <<portal,Add your LFX ID email address>> to your RISC-V Portal account.
+. Request RISC-V wiki edit access by following the directions in <<request-help>>. Submit a “General Request”, asking for wiki access.
+
+[[tech-calendar]]
+==== Technical Calendar
+
+The RISC-V Technical Calendar is available at https://tech.riscv.org/calendar/.
+
+Chairs and vice-chairs are encouraged to keep their group meetings on this calendar. There is no invite management tooling for the groups. Meetings can be added to the calendar by simply adding tech.meetings@riscv.org to the meeting invite. Additional information about meetings, including timezone-centric links to the calendar, see the https://wiki.riscv.org/display/TECH/Calendars%2C+Meetings%2C+and+Zoom[Calendars, Meetings, and Zoom] wiki page.
+
+[[github]]
+==== GitHub
+
+The RISC-V GitHub overview is available at https://wiki.riscv.org/display/HOME/GitHub+Repo+Map[GitHub Repo Map] wiki page.
+
+RISC-V GitHub space contains multiple GitHub “organizations” under which the respective repositories are created.  These repositories are described in greater detail and referenced from the link on the wiki page.
+
+All RISC-V specifications and software repositories are generally accessible.  However, contributions may be constrained to members only.  If you plan on contributing to a RISC-V GitHub repository or plan to be group Chair or Vice-Chair, the following steps should be taken:
+
+[[google-drive]]
+==== Google Drive
+
+The Google Drive RISC-V entry point is the https://drive.google.com/drive/u/0/folders/1DemKMAD3D0Ka1MeESRoVCJipSrwiUlEs[for riscv members] folder.
+
+While GitHub is preferred as a storage and organization tool, some activities such as spreadsheets and document collaboration are best performed with Google web-based tooling. Therefore, RISC-V has opted to anchor all of their documentation in the https://drive.google.com/drive/u/0/folders/1DemKMAD3D0Ka1MeESRoVCJipSrwiUlEs[for riscv members] folder. Generally speaking, read access to the documents should be available. 
+ 
+When you #portal[request your RISC-V Portal access], the email address you register is automatically added to a Google group within 3 working days. The Google group provides additional access to the RISC-V documents in Google Drive. If your email is not Google, you can enable it by following the directions found in the https://support.google.com/accounts/answer/27441?hl=en#existingemail[Use an existing email address] section of the “Create a Google Account” article from Google.
+
+To test that your membership has been set up correctly, the https://docs.google.com/document/d/1FHvKzoYb2g_PvHsIBbtHlDLhouGOtvxAptmYAt4vojw/edit[Member Authorization Test Document] was created to collect comments from RISC-V members. Directions for how to use the document and what to do if you cannot post comments are contained in the document. Similar documents also exist for the following groups.
+
+* https://docs.google.com/document/d/1krL4YB5-WE3nU3N6lQ8b8TKe5lgqsFFD5A0U5UmRdV8/[Tech Chairs Authorization Test Document]
+* https://docs.google.com/document/d/1YnFXlrCRdmdz6gaRbnban8e3W7ANYRrR9tTpTsrxCfw/[Committee Chairs Authorization Test Document]
+* https://docs.google.com/document/d/1_6K4OZu6sg5g8tykU1DWFx8q8aKNhYEj-gCk8rz3ZHk/[TSC Authorization Test Document]
+
+If, for some reason your email address cannot be enabled or if you have any problems enabling it, please submit a “General Request” in the <<request-help>> section and ask for assistance with Google Drive access.
+
+Key folders of interest:
+
+* https://drive.google.com/drive/u/0/folders/1DemKMAD3D0Ka1MeESRoVCJipSrwiUlEs[for riscv members]: The top-level folder into which all RISC-V members content is placed.
+* https://drive.google.com/drive/u/0/folders/179Vz1NtbpmFcVy8SnuSUFWAO-by2Davc[Workgroups]: Contains folders which serve as the Google drive work space for working groups.
+* https://drive.google.com/drive/u/0/folders/17huuOKXafR5n4tbxZfzSnAakmgHnipoY[Policies]: Holds all RISC-V policies organized into folder for their adoption state, e.g. approved, being written, and pre-review.
+* https://drive.google.com/drive/u/0/folders/1nGEt4JUDDW1dXjr78NK-5jbt8j8vuBEf[Status]: Organizes the various documents of for our specifications/work products.
+* https://drive.google.com/drive/u/0/folders/1j0XmCHYwXPiZGYbfBl7WoG1AdwA2rDMR[Information]: Collects many foundational documents key to the organization.
+
+[[additional-places]]
+=== Additional places
+
+There are additional, generally open (publicly viewable and publicly postable), mailing lists which are hosted in Google Groups and serve a variety of public purposes.  Most of these lists can be found from the https://riscv.org/technical/technical-forums/[RISC-V Technical Forums] webpage.
