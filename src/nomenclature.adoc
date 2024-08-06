@@ -1,0 +1,30 @@
+[[nomenclature]]
+== Nomenclature
+
+Understanding the following terms and definitions will help navigating the RISC-V development community.
+
+The following sections define some of the most common terms.  Additional terms can be found in the https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.t356lc88wwo9[Appendix] of the RISC-V Lifecycle Guide.
+
+You can find additional terms at the https://github.com/riscv/riscv-glossary/blob/main/src/glossary.adoc[RISC-V glossary].
+
+[[extensions]]
+=== Extensions
+
+Extensions are a group of instructions and state (registers, CSRs) and the behaviors for those instructions and state. The extension is defined by a specification (or chapter in a specification) and a formal model in SAIL. Extensions are governed and approved by the TSC and ratified by the Board of Directors and extensions along with their corresponding task groups are governed by their committee and their charter is governed and approved by TSC.
+
+An extension has a name. The name is governed, allocated and approved by the Unprivileged IC and appears in a chapter in the Unprivileged specification. Extension names may be individual alphabetic letters or may begin with a [ZSM]<string> for RISC-V extensions and X<string> for custom vendor specific non-standard extensions.
+
+[[rat-packages]]
+=== Ratification Packages
+
+Extensions are grouped together into a set which is documented in a single specification and ratified at the same time. This group is the Ratification Package or “Rat Pack” for short.
+
+[[profile-ext]]
+=== Profiles
+
+Profiles are a collection of extensions which is more broad than the Ratification Package. You can find more information in the https://github.com/riscv/riscv-profiles[source repository] for the RISC-V Profiles.
+
+[[platform]]
+=== Platforms
+
+Platforms define a set of requirements (including Profiles and other hardware and software standards) for interoperability between software and hardware and among all software distributions. Find more information in the https://github.com/riscv-admin/server-platform[source repository] for the RISC-V Platform specification.

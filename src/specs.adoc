@@ -1,0 +1,16 @@
+[[specs]]
+== Specifications
+
+RISC-V is fundamentally a specification-driven organization. As such, the process by which specifications are proposed, developed, and ratified are critical to organizational success.  
+
+All specifications (ISA or Non-ISA) have a common lifecycle and milestones. Please see the https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/[RISC-V Lifecycle Guide] for details.
+
+Every specification being developed has two key documents: its Ratification plan document (located in one of  the https://drive.google.com/drive/u/0/folders/16bsbFBkNcKAmHBDDaauKRa80QuJglcvN[1 - Ratification Plans] folders) and its support Acceptance Criteria spreadsheet (located in one of the https://drive.google.com/drive/u/0/folders/1xWjKtdKf8Uuyyex0uZew7C1r2I0DqvOl[2 - Status Checklists folders]). These documents are created from templates, based on their document classification (ISA or Non-ISA), completed by the document owners (TG Chair and Vice-chair), and managed by the document owners and RISC-V TPMs throughout the specification development process.
+
+During development, specification status is up-leveled from a specification’s Ratification Plan document and Acceptance Criteria into a dashboard under the https://wiki.riscv.org/display/HOME/All+Specifications+Under+Development[Specification Status] wiki page, based upon specification type and milestone.
+ 
+Within the Task Group (TG), the specifications are developed in an open-source-like, community-driven way, involving GitHub tooling for source and issues, Asciidoctor and plugins for building the documentation, meetings for in-person coordination and larger discussions, and mailing lists for asynchronous work.  Each group forms their own norms and culture within the guidance of the RISC-V policies and structure.
+
+To learn more about the technical aspects of developing documentation in Asciidoctor, see the https://github.com/riscv/docs-dev-guide/releases/download/main/example.pdf[Authoring and Editing RISC-V Specifications] document (or “Docs Dev Guide”).
+
+For additional guidelines around documentation, see the (still draft version) https://docs.google.com/document/d/1zRUSx8Cx3MhQqKCGBlhfLxhdwNMW8Ajwsv12M69y3kY/[RISC-V Technical Documentation Policy] document.

@@ -41,7 +41,20 @@ Copyright 2024 by RISC-V International.
 
 include::intro.adoc[]
 
+include::tools.adoc[]
+
+include::governance.adoc[]
+
+include::operations.adoc[]
+
+include::specs.adoc[]
+
+include::software.adoc[]
+
+include::get-involved.adoc[]
+
+include::nomenclature.adoc[]
+
 // The index must precede the bibliography
 // include::index.adoc[]
 // include::bibliography.adoc[]
-

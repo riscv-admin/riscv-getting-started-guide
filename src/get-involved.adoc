@@ -1,0 +1,37 @@
+[[get-involved]]
+== Getting involved
+To contribute to a specification or a technical area, find the most appropriate group in Groups.IO, join it, follow the discussions on the mailing list, attend the meetings, and volunteer to help.
+
+To engage in the development of an active specification, visit the https://wiki.riscv.org/display/HOME/All+Specifications+Under+Development[Specification Status] wiki page, locate the Task Group or Committee that owns the specification and join the group via the links provided.
+
+If you are a member of the RISC-V Technical community, you should join the following groups:
+
+* https://lists.riscv.org/g/allmem["All Members"] (allmem) group to receive community-wide notifications.
+* https://lists.riscv.org/g/tech-announce["Tech Announce"] (tech-announce) group to stay in touch with all things technical, including leadership “Call for Candidate” notices, specification reviews, and groups formation announcements.
+
+Additional groups of interest are the ISA and Horizontal Committees (ICs and HCs).  These groups are:
+
+* https://lists.riscv.org/g/tech-unprivileged["Unprivileged ISA Committee"] (tech-unprivileged) group for discussions about user-mode extensions.
+* https://lists.riscv.org/g/tech-privileged["Privileged ISA Committee"] (tech-privileged) group for discussions about all privilege mode extensions.
+* https://lists.riscv.org/g/apps-tools-software["Applications & Tools Horizontal Committee"] (apps-tools-software) group for discussions about tools, toolchains, compilers, and applications.
+* https://lists.riscv.org/g/privileged-software["Privileged Software Horizontal Committee"] (privileged-software) group for discussions about platform enablement software such as firmware, kernels, hypervisors, etc.
+* https://lists.riscv.org/g/security["Security Horizontal Committee"] (security) group for discussions on all security topics
+* https://lists.riscv.org/g/isa-infra["ISA Infrastructure Horizontal Committee"] (isa-infra) group for discussions around non-extension discussions for the ISA such as Architectural Compatibility Testing (ACT), SAIL model development, documentation guidance, and Continuous Integration testing of the development tools.
+* https://lists.riscv.org/g/soc-infra["SOC Infrastructure Horizontal Committee"] (soc-infra) group for discussions about the components which straddle the hardware/software boundary such as RAS, Debug, Trace, and IOMMU.
+* https://lists.riscv.org/g/tech-sectors["Technology Horizontal Committee"] (tech-sectors) group for market segment discussions like Datacenter, HPC, and Embedded
+
+To find a list of all existing groups, see the RISC-V Portal page for https://lists.riscv.org/g/main/subgroups[Sub-groups].
+
+To find the list of all existing and proposed groups, review the “Technical Org Chart” link on the main https://wiki.riscv.org/[RISC-V wiki page].
+
+To propose a new group, see https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.7s1dxlfz7n35[2. Group Lifecycle] section of the https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/[RISC-V Lifecycle Guide].  If needed, see the <<request-help>> section for guidance on how to get more assistance. 
+
+To propose a new specification or topic, see https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.vp6ntzpqto3j[3. Specification Lifecycle] section of the https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/[RISC-V Lifecycle Guide].  See the <<request-help>> section for guidance on how to request more assistance.
+
+To find an answer to a question, try one of these methods.
+
+. Review a list of common questions in the https://docs.google.com/document/d/1Au3veNdNJQKPq-oiQRKTzdgmM72FDaqZOKeH7sOnG04/edit#heading=h.gmhptxzcxepg[Frequently Asked Questions (FAQs)] section of the RISC-V Lifecycle Guide.
+. For questions about the ISA or compilers and software, post to the external mailing lists: https://groups.google.com/u/1/a/groups.riscv.org/g/isa-dev[isa-dev] and https://groups.google.com/u/1/a/groups.riscv.org/g/sw-dev[sw-dev].
+. Check out the working groups (see <<orgtoolsaccounts>>) to see if the topic is already discussed. Join and ask!
+. Join the https://join.slack.com/t/risc-v-international/signup[RISC-V Slack workspace] and post to either the #random or #tech-general channels.
+. If all else fails, see the <<request-help>> section for guidance on how to get more assistance.
