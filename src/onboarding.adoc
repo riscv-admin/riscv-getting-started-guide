@@ -1,4 +1,4 @@
-= RISC-V Getting Started Guide
+= RISC-V Technical Member On-boarding Guide
 Authors: RISC-V Development Team
 // include::../docs-resources/global-config.adoc[]
 :docgroup: RISC-V Admin
