@@ -1,0 +1,65 @@
+---
+name: Create Onboarding Document
+
+# The workflow is triggered by pull request, push to main, and manual dispatch.
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release version, e.g. X.Y.Z:'
+        required: true
+        type: string
+      prerelease:
+        description: Tag as a pre-release?
+        required: false
+        type: boolean
+        default: true
+      draft:
+        description: Create release as a draft?
+        required: false
+        type: boolean
+        default: false
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      # Pull the latest RISC-V Docs container image
+      - name: Pull Container
+        run: docker pull riscvintl/riscv-docs-base-container-image:latest
+
+      # Build Files
+      - name: Build Files
+        run: make
+
+      # Upload the built PDF files as a single artifact
+      - name: Upload Build Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: Build Artifacts
+          path: ${{ github.workspace }}/build/*.pdf
+
+      # Create Release
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ${{ github.workspace }}/build/*.pdf
+          tag_name: v${{ github.event.inputs.version }}
+          name: Release ${{ github.event.inputs.version }}
+          draft: ${{ github.event.inputs.draft }}
+          prerelease: ${{ github.event.inputs.prerelease }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GHTOKEN }}
+        if: github.event_name == 'workflow_dispatch'
+        # This condition ensures this step only runs for workflow_dispatch events.
