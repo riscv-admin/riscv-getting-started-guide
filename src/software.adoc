@@ -6,11 +6,5 @@ The RISC-V software initiatives are anchored in the Software Horizontal Committe
 * https://lists.riscv.org/g/software[Groups.IO group] (members only mailing list): https://lists.riscv.org/g/software 
 * Software ecosystem components and status: https://wiki.riscv.org/display/HOME/RISC-V+Software+Ecosystem[Software Ecosystem] wiki page
 * External mailing list: https://groups.google.com/u/1/a/groups.riscv.org/g/sw-dev[sw-dev]
-* RISC-V member patch review lists (new): 
-** https://groups.google.com/a/riscv.org/g/dev-gnu-patches[dev-gnu-patches]
-** https://groups.google.com/a/riscv.org/g/dev-kernel-patches[dev-kernel-patches]
-** https://groups.google.com/a/riscv.org/g/dev-libs-patches[dev-libs-patches]
-** https://groups.google.com/a/riscv.org/g/dev-llvm-patches[dev-llvm-patches]
-** https://groups.google.com/a/riscv.org/g/dev-simulator-patches[dev-simulator-patches]
 
 Almost every ISA extension impacts some piece of the software ecosystem.  Details about the https://docs.google.com/presentation/d/1nQ5uFb39KA6gvUi5SReWfIQSiRN7hp6z7ZPfctE4mKk/edit#slide=id.g104ba5e7139_0_569[RISC-V Software Development Lifecycle] (and https://docs.google.com/presentation/d/1nQ5uFb39KA6gvUi5SReWfIQSiRN7hp6z7ZPfctE4mKk/edit#slide=id.g104d04b92b1_1_1[Milestones]) exist in the https://docs.google.com/presentation/d/1nQ5uFb39KA6gvUi5SReWfIQSiRN7hp6z7ZPfctE4mKk/edit?usp=sharing[Specification Lifecycle and Milestone Definitions] slides.
