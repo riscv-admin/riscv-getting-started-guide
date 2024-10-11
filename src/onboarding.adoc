@@ -1,8 +1,8 @@
-= RISC-V Technical Member On-boarding Guide
+= RISC-V Member Guide for Technical Collaboration
 Authors: RISC-V Development Team
 // include::../docs-resources/global-config.adoc[]
 :docgroup: RISC-V Admin
-:description: RISC-V Getting Started Guide
+:description: Guide for members to find the information that they need for technical collaboration.
 :revdate: 7/2024
 :revnumber: 1.0
 :revremark: This document is under development. Expect potential changes. Visit http://riscv.org/spec-state for further details.
