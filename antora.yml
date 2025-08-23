@@ -1,0 +1,12 @@
+name: riscv-getting-started
+title: RISC-V Getting Started
+version: 0.1
+start_page: index.adoc
+asciidoc:
+  attributes:
+    release-date: 11-28-2024
+    source-language: asciidoc@
+    xrefstyle: short@
+    url-repo: https://github.com/riscv-admin/riscv-getting-started-guide
+nav:
+- modules/ROOT/nav.adoc
